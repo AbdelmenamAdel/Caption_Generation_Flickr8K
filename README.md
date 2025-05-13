@@ -67,11 +67,11 @@ files.upload()  # upload kaggle.json
 
 3. Set Kaggle directory and download dataset:
 
-!mkdir ~/.kaggle
-!cp kaggle.json ~/.kaggle/
-!chmod 600 ~/.kaggle/kaggle.json
-!kaggle datasets download -d adityajn105/flickr8k -p /content/
-!unzip -q /content/flickr8k.zip -d /content/flickr8k
+- !mkdir ~/.kaggle
+- !cp kaggle.json ~/.kaggle/
+- !chmod 600 ~/.kaggle/kaggle.json
+- !kaggle datasets download -d adityajn105/flickr8k -p /content/
+- !unzip -q /content/flickr8k.zip -d /content/flickr8k
 
 4. Run the notebook cells and follow instructions
 
@@ -93,7 +93,7 @@ Input Image	Generated Caption
 Abdel Moneim
 
 Junior Flutter & AI Developer
-🔗 LinkedIn | 📧 Email
+🔗 [LinkedIn](https://www.linkedin.com/in/abdelmenam-adel-175b35265/) | 📧 [Email](abdelmoneim.adel5@gmail.com)
 
 📂 Try it now!
 📥 Download Dataset & Notebook
