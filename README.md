@@ -1,4 +1,4 @@
-# 📸 Image Captioning using CNN + LSTM | Flickr8k Dataset
+# 📸 Image Captioning using CNN + NLP + LSTM | Flickr8k Dataset
 
 This project implements an **Image Caption Generator** that uses deep learning techniques combining **Convolutional Neural Networks (CNN)** and **Recurrent Neural Networks (RNN)** — specifically, **LSTM** — to generate human-like captions for images.
 
